@@ -1,4 +1,4 @@
-# Emergency-Brake-in-AUTOSAR
+# AUTOSAR Emergency Brake Cruise Control System 
 Documentation for Implementing Cruise Control and Emergency Brake in AUTOSAR
 
 Step 1 - Design Phase, SystemDesk
