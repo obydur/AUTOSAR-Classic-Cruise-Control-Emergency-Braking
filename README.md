@@ -58,7 +58,7 @@ Original project screenshots will be added here.
 ## Project Structure
 
 ```text
-Emergency-Brake-in-AUTOSAR/
+AUTOSAR-Classic-Cruise-Control-Emergency-Braking/
 │
 ├── README.md
 ├── images/
