@@ -57,22 +57,23 @@ Original project screenshots will be added here.
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 AUTOSAR-Classic-Cruise-Control-Emergency-Braking/
 │
-├── README.md
 ├── images/
 │   └── .gitkeep
 │
+├── AccidentRecorder.c
 ├── CruiseControlSWC.c
 ├── EmergencyBreakSWC.c
-├── TargetSpeed.c
 ├── EngineControl.c
-├── AccidentRecorder.c
+├── TargetSpeed.c
 │
-├── EngineControl_READ ME.txt
 ├── AUTO-MOBILE.png
 ├── ECU.png
+├── EngineControl_READ ME.txt
 │
 ├── Unit4-Documentation for Implementing Cruise Control and Emergency Brake in AUTOSAR.pdf
 └── unit4-task-question.pdf
